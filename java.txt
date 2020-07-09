@@ -1,1 +1,2 @@
 main (){system.out.print}
+{system.out.print "how are you"}
