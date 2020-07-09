@@ -1,2 +1,4 @@
-main (){system.out.print}
-{system.out.print "how are you"}
+main (){system.out.println}
+{system.out.println ("how are you");
+system.out.println ( "second");}
+
